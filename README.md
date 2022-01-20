@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tooling
 
 <!-- - husky -->
@@ -25,3 +26,6 @@
 
 - jest setup / configs
 - react-testing library
+=======
+# react-base-testing-library
+>>>>>>> 557b613306ff0345b081b5fe8687ddb4098f9ca9
